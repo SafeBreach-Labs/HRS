@@ -1,4 +1,6 @@
-# HRS (Amit Klein, Safebreach)
+# HRS 
+## Author: Amit Klein, Safebreach.
+
 HTTP Request Smuggling demonstration Perl script, for variants 1, 2 and 5 in my BlackHat US 2020 paper [HTTP Request Smuggling in 2020](https://www.blackhat.com/us-20/briefings/schedule/#http-request-smuggling-in---new-variants-new-defenses-and-new-challenges-20019). 
 
 Running:
